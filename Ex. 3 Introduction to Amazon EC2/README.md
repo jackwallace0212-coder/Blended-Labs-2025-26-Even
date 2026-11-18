@@ -171,3 +171,5 @@ I confirmed the termination and observed that the instance state changed to “T
 ---
 
 ## Result 
+
+Thus, the Amazon EC2 experiment was successfully completed. We gained practical knowledge of launching, configuring, monitoring and managing EC2 instances. We also learned how to configure security groups, deploy a web server using User Data, resize instance resources, explore service quotas and use termination and stop protection features.
